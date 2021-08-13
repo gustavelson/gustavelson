@@ -1,4 +1,4 @@
-- 👋 Hello i'm Gustavo. I'm studying java script and other front end technologies.
+- 👋 Hello i'm Gustavo. I'm studying JavaScript and other front end technologies.
 .
 
 <!---
