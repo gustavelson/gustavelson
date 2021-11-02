@@ -1,7 +1,7 @@
-<div align="center">
+
 <h1>👋 Olá!! Eu sou Gustavo Souza.</h1>
 <h2>📘 Estudando VueJS.</h2>
-</div>
+
 
 <div align="center">
   <a href="https://github.com/gustavelson">
