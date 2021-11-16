@@ -1,6 +1,6 @@
 
 <h1>👋 Olá!! Eu sou Gustavo Souza.</h1>
-<h2>📘 Estudando VueJS.</h2>
+<h2>📘 Estudando ReactJS.</h2>
 
 
 <div align="center">
@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gust-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gust-Ts" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gust-React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Gust-React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original.svg">
   <img align="center" alt="Gust-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gust-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
